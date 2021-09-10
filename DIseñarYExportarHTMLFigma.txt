@@ -1,0 +1,19 @@
+Tutorial de como hacer diseños responsives en figma:
+
+1)https://www.youtube.com/watch?v=zkQfCmapYwI&t=0s
+
+me parece q figma es la mejor opcion: appweb, facil para compartir, es la q usan las diseñadoras y gratis (hasta ahí)
+instalar el plugin breackpoint
+12 columnas
+
+El estilo responsive tiene que venir desde figma, hay que considerarlo desde el principio y separar en desktop y mobil. Va a depender también de si usarmos bootstrap, material, etc...
+por el sistema de grids que usan (cantidad de cols)
+
+otras alternativas a zeplin y anima
+
+
+el q me pasó mauri se rompe antes de convertirse en html: https://builder.io/fiddle/556e47c153f44dfcae37629f7e76cc06
+
+anima exporta como una imagen si no hay funcionaniladad
+anima me permite agregar interactividad adicional a figma
+anima funciona con sketch y xd también
